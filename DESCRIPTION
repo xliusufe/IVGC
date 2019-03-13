@@ -20,7 +20,7 @@ Description: Efficient two-step procedure to achieve variable selection and esti
 License: GPL-2
 LazyData: true
 NeedsCompilation: yes
-Repository: CRAN
+Repository: github
 URL: https://github.com/xliusufe/IVGC
 Encoding: UTF-8
 Packaged: 2019-03-12 11:52:18 UTC; Yiming Liu
