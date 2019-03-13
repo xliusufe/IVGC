@@ -1,0 +1,4 @@
+importFrom(glmnet,cv.glmnet)
+importFrom("stats", "coef", "sd")
+export(main)
+useDynLib(IVGC)

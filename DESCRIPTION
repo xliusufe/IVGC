@@ -1,0 +1,26 @@
+Package: IVGC
+Type: Package
+Title: Two-step Estimation Using IV Regression and Graph-constrained Regularization Method
+Version: 1.0.1
+Date: 2019-03-13
+Authors@R: c(person(given = "Bin", family = "Gao", role = "aut"),
+             person(given = "Xu", family = "Liu", role = c("aut","cre")),
+             person(given = "Hongzhe", family = "Li", role = "aut"),
+             person(given = "Yuehua", family = "Cui", role = "aut"),
+             person(given = "Yiming", family = "Liu", role = "ctb"))
+Author: Bin Gao [aut], 
+        Xu Liu [aut,cre], 
+        Hongzhe Li [aut],
+        Yuehua Cui [aut],
+        Yiming Liu [ctb]
+Maintainer: Xu Liu <liu.xu@shufe.edu>
+Depends: R (>= 3.1.0)
+Imports: glmnet
+Description: Efficient two-step procedure to achieve variable selection and estimation under an IV regression framework by incorporating gene network information. The method is applicable in both low and high dimensional situations and the cyclical coordinate descent algorithm is used to solve them.
+License: GPL-2
+LazyData: true
+NeedsCompilation: yes
+Repository: CRAN
+URL: https://github.com/xliusufe/IVGC
+Encoding: UTF-8
+Packaged: 2019-03-12 11:52:18 UTC; Yiming Liu
