@@ -8,7 +8,7 @@ Efficient two-step procedure to achieve variable selection and estimation under 
 
 # Usage
 
-    [IVGC-manual](https://github.com/xliusufe/IVGC/blob/master/inst/IVGC-manual.pdf) ------------ Details of the usage of the package.
+    [IVGC-manual](https://github.com) ------------ Details of the usage of the package.
 # Example
 
     library(IVGC)
