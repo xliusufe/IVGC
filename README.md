@@ -10,7 +10,6 @@ Efficient two-step procedure to achieve variable selection and estimation under 
 
     IVGC-manual.pdf ---------------- Details of the usage of the package.
 # Example
-    library(glmnet)
     library(IVGC)
 
     data(simulatedData)
