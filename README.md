@@ -3,7 +3,7 @@ Efficient two-step procedure to achieve variable selection and estimation under 
 # Installation
 
     #install.packages("devtools")
-    #install [Rtools 3.5](http://cran.r-project.org/bin/windows/Rtools)
+    #install Rtools 3.5 (http://cran.r-project.org/bin/windows/Rtools)
     library(devtools)
     install_github("xliusufe/IVGC")
 
