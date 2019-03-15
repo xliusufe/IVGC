@@ -13,11 +13,11 @@ data("simulatedData")
 \details{
 We simulated a total of p variables of gene expression and considered three group structures on coefficients with five variables in each group. Within each group, the variables are correlated. The strength of the correlation was controlled by the number of effective SNPs they had in common.
 
-Y: the response, a vector of size 600
+Y: the response, a vector of size 200
 
-X: the expression data dimension \eqn{600\times 100} 
+X: the expression data dimension \eqn{200\times 100} 
 
-gene: the SNP variable with dimension \eqn{600\times 100}
+gene: the SNP variable with dimension \eqn{200\times 100}
 
 graph: the graph structure of X with dimension \eqn{100\times 100}
 }
